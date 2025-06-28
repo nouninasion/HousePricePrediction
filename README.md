@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook (`HousePredictionPrice.ipynb`) that 
 ## Table of Contents
 
   - [Project Overview](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#project-overview)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
+  - [Dataset](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#dataset)
   - [Features](https://www.google.com/search?q=%23features)
   - [Preprocessing Steps](https://www.google.com/search?q=%23preprocessing-steps)
   - [Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23exploratory-data-analysis-eda)
