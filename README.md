@@ -1,4 +1,5 @@
-# HousePricePrediction
+Here's the GitHub README in English, incorporating the details you provided, including the dataset source and the mention of Google Colab:
+
 # House Price Prediction
 
 This repository contains a Jupyter Notebook (`HousePredictionPrice.ipynb`) that demonstrates a house price prediction model. The project involves data loading, preprocessing, feature engineering, model training, and evaluation.
@@ -22,7 +23,7 @@ The main goal of this project is to predict house prices based on various featur
 ## Dataset
 
 The dataset used for this prediction is `realest.csv`. It includes various attributes of houses that influence their price.
-im download from this website:https://www.kaggle.com/datasets/tawfikelmetwally/chicago-house-price
+You can download the dataset from [Kaggle: Chicago House Price](https://www.kaggle.com/datasets/tawfikelmetwally/chicago-house-price).
 
 ## Features
 
@@ -89,7 +90,7 @@ You can install these using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-Once the dependencies are installed, you can open and run the `HousePredictionPrice.ipynb` file in your Jupyter environment.
+Once the dependencies are installed, you can open and run the `HousePredictionPrice.ipynb` file in your Jupyter environment or Google Colab.
 
 ## Libraries Used
 
