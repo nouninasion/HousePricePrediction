@@ -7,13 +7,13 @@ This repository contains a Jupyter Notebook (`HousePredictionPrice.ipynb`) that 
 
   - [Project Overview](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#project-overview)
   - [Dataset](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#dataset)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Preprocessing Steps](https://www.google.com/search?q=%23preprocessing-steps)
-  - [Exploratory Data Analysis (EDA)](https://www.google.com/search?q=%23exploratory-data-analysis-eda)
-  - [Model Training](https://www.google.com/search?q=%23model-training)
-  - [Model Performance](https://www.google.com/search?q=%23model-performance)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-  - [Libraries Used](https://www.google.com/search?q=%23libraries-used)
+  - [Features](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#features)
+  - [Preprocessing Steps](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#preprocessing-steps)
+  - [Exploratory Data Analysis (EDA)](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#exploratory-data-analysis-eda)
+  - [Model Training](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#model-training)
+  - [Model Performance](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#model-performance)
+  - [Getting Started](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#getting-started)
+  - [Libraries Used](https://github.com/nouninasion/HousePricePrediction/blob/main/README.md#libraries-used)
 
 ## Project Overview
 
